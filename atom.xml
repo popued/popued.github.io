@@ -3,9 +3,9 @@
   <title><![CDATA[POPUED team]]></title>
   <subtitle><![CDATA[we like web and ued]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-07-31T05:58:50.284Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://popued.com/"/>
+  <updated>2014-07-31T10:24:44.984Z</updated>
+  <id>http://popued.com/</id>
   
   <author>
     <name><![CDATA[popued]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[团队网站介绍]]></title>
-    <link href="http://yoursite.com/2014/07/30/%E5%9B%A2%E9%98%9F%E7%BD%91%E7%AB%99%E7%AE%80%E4%BB%8B/"/>
-    <id>http://yoursite.com/2014/07/30/团队网站简介/</id>
+    <link href="http://popued.com/2014/07/30/%E5%9B%A2%E9%98%9F%E7%BD%91%E7%AB%99%E7%AE%80%E4%BB%8B/"/>
+    <id>http://popued.com/2014/07/30/团队网站简介/</id>
     <published>2014-07-30T11:31:22.000Z</published>
     <updated>2014-07-31T05:51:35.000Z</updated>
     <content type="html"><![CDATA[<h1 id="POP’UED_网站的历史">POP’UED 网站的历史</h1>
@@ -35,16 +35,16 @@
 ]]></content>
     
     
-      <category term="popued" scheme="http://yoursite.com/tags/popued/"/>
+      <category term="popued" scheme="http://popued.com/tags/popued/"/>
     
-      <category term="杂谈" scheme="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="http://popued.com/categories/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[web学习之html]]></title>
-    <link href="http://yoursite.com/2014/07/30/web%E5%AD%A6%E4%B9%A0%E4%B9%8Bhtml/"/>
-    <id>http://yoursite.com/2014/07/30/web学习之html/</id>
+    <link href="http://popued.com/2014/07/30/web%E5%AD%A6%E4%B9%A0%E4%B9%8Bhtml/"/>
+    <id>http://popued.com/2014/07/30/web学习之html/</id>
     <published>2014-07-30T07:45:47.000Z</published>
     <updated>2014-07-31T05:51:35.000Z</updated>
     <content type="html"><![CDATA[<h2><a id="more"></a></h2>
@@ -54,25 +54,25 @@
 ]]></content>
     <summary type="html"><![CDATA[<h2>]]></summary>
     
-      <category term="html" scheme="http://yoursite.com/tags/html/"/>
+      <category term="html" scheme="http://popued.com/tags/html/"/>
     
-      <category term="web" scheme="http://yoursite.com/categories/web/"/>
+      <category term="web" scheme="http://popued.com/categories/web/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[hello popued]]></title>
-    <link href="http://yoursite.com/2014/07/30/hello-popued/"/>
-    <id>http://yoursite.com/2014/07/30/hello-popued/</id>
+    <link href="http://popued.com/2014/07/30/hello-popued/"/>
+    <id>http://popued.com/2014/07/30/hello-popued/</id>
     <published>2014-07-30T01:01:22.000Z</published>
     <updated>2014-07-31T05:51:35.000Z</updated>
     <content type="html"><![CDATA[<h1 id="你好_popued">你好 popued</h1>
 ]]></content>
     
     
-      <category term="popued" scheme="http://yoursite.com/tags/popued/"/>
+      <category term="popued" scheme="http://popued.com/tags/popued/"/>
     
-      <category term="杂谈" scheme="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="http://popued.com/categories/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
