@@ -4,7 +4,7 @@
   <subtitle><![CDATA[we like web and ued]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://popued.com/"/>
-  <updated>2014-08-03T09:04:26.023Z</updated>
+  <updated>2014-08-03T09:16:58.238Z</updated>
   <id>http://popued.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://popued.com/2014/08/03/web%E5%AD%A6%E4%B9%A0%E4%B9%8Bjavascript/"/>
     <id>http://popued.com/2014/08/03/web学习之javascript/</id>
     <published>2014-08-03T07:33:12.000Z</published>
-    <updated>2014-08-03T09:00:49.000Z</updated>
+    <updated>2014-08-03T09:15:29.000Z</updated>
     <content type="html"><![CDATA[<h2 id="javascript书籍推荐">javascript书籍推荐</h2>
 <h3 id="第一批次">第一批次</h3>
 <p><pre>入门级，也适合想掌握一些前端技能的非前端工程师<br>&lt;JavaScript Dom编程艺术&gt;<br></pre></p>
@@ -28,7 +28,9 @@
 <h3 id="第三批次">第三批次</h3>
 <p><pre>更优秀的代码，更优良的设计<br>&lt;JavaScript语言精粹&gt;<br>&lt;JavaScript设计模式&gt;<br></pre></p>
 <h3 id="第四批次">第四批次</h3>
-<p><pre>从语言细节到复杂工程实践，想开发靠谱的各类底层代码，应该看看<br>&lt;Secrets of the JavaScript Ninja&gt;<br>&lt;JavaScript Patterns&gt;<br>&lt;ECMA-262 in Detail&gt;<br></pre><br>推荐一个不错的教程<a href="http://javascript.ruanyifeng.com/" target="_blank" rel="external">JavaScript 标准参考教程（alpha）</a><a id="more"></a></p>
+<p><pre>从语言细节到复杂工程实践，想开发靠谱的各类底层代码，应该看看<br>&lt;Secrets of the JavaScript Ninja&gt;<br>&lt;JavaScript Patterns&gt;<br>&lt;ECMA-262 in Detail&gt;<br></pre></p>
+<h3 id="番外篇">番外篇</h3>
+<p><pre>各类专题书籍，读好第二批次书籍之后，有精力就接触下<br>&lt;高性能网站建设指南&gt;<br>&lt;高性能网站建设进阶指南&gt;<br>&lt;高性能JavaScript&gt;<br>&lt;Ajax实战&gt;<br>&lt;Query实战&gt;<br>&lt;精通CSS&gt;(或&lt;CSS权威指南&gt;)<br>&lt;正则表达式必知必会&gt;(或&lt;正则表达式权威指南&gt;)<br>&lt;HTML5与CSS3权威指南&gt;<br>&lt;NodeJS开发指南&gt;<br>&lt;深入浅出Node.js&gt;<br>&lt;锋利的jquery&gt;<br></pre><br>推荐一个不错的教程<a href="http://javascript.ruanyifeng.com/" target="_blank" rel="external">JavaScript 标准参考教程（alpha）</a><a id="more"></a></p>
 <h2 id="javascript知识点">javascript知识点</h2>
 <p>1.JavaScript 数据类型<br><img src="http://popimages.b0.upaiyun.com/The-JavaScript-data-type-1.gif" alt="JavaScript 数据类型"></p>
 <p>2.JavaScript 变量<br><img src="http://popimages.b0.upaiyun.com/The-JavaScript-variable.gif" alt="JavaScript 变量"></p>
@@ -49,7 +51,9 @@
 <h3 id="第三批次">第三批次</h3>
 <p><pre>更优秀的代码，更优良的设计<br>&lt;JavaScript语言精粹&gt;<br>&lt;JavaScript设计模式&gt;<br></pre></p>
 <h3 id="第四批次">第四批次</h3>
-<p><pre>从语言细节到复杂工程实践，想开发靠谱的各类底层代码，应该看看<br>&lt;Secrets of the JavaScript Ninja&gt;<br>&lt;JavaScript Patterns&gt;<br>&lt;ECMA-262 in Detail&gt;<br></pre><br>推荐一个不错的教程<a href="http://javascript.ruanyifeng.com/" target="_blank" rel="external">JavaScript 标准参考教程（alpha）</a>]]></summary>
+<p><pre>从语言细节到复杂工程实践，想开发靠谱的各类底层代码，应该看看<br>&lt;Secrets of the JavaScript Ninja&gt;<br>&lt;JavaScript Patterns&gt;<br>&lt;ECMA-262 in Detail&gt;<br></pre></p>
+<h3 id="番外篇">番外篇</h3>
+<p><pre>各类专题书籍，读好第二批次书籍之后，有精力就接触下<br>&lt;高性能网站建设指南&gt;<br>&lt;高性能网站建设进阶指南&gt;<br>&lt;高性能JavaScript&gt;<br>&lt;Ajax实战&gt;<br>&lt;Query实战&gt;<br>&lt;精通CSS&gt;(或&lt;CSS权威指南&gt;)<br>&lt;正则表达式必知必会&gt;(或&lt;正则表达式权威指南&gt;)<br>&lt;HTML5与CSS3权威指南&gt;<br>&lt;NodeJS开发指南&gt;<br>&lt;深入浅出Node.js&gt;<br>&lt;锋利的jquery&gt;<br></pre><br>推荐一个不错的教程<a href="http://javascript.ruanyifeng.com/" target="_blank" rel="external">JavaScript 标准参考教程（alpha）</a>]]></summary>
     
       <category term="javascript" scheme="http://popued.com/tags/javascript/"/>
     
