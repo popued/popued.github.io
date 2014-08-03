@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://popued.com/about/index.html</loc>
+    <lastmod>2014-08-03T14:47:49.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://popued.com/2014/08/03/web%E5%AD%A6%E4%B9%A0%E4%B9%8Bjavascript/</loc>
     <lastmod>2014-08-03T09:15:29.000Z</lastmod>
   </url>
@@ -17,11 +22,6 @@
   </url>
   
   <url>
-    <loc>http://popued.com/2014/07/30/hello-popued/</loc>
-    <lastmod>2014-07-31T05:51:35.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://popued.com/2014/07/30/web%E5%AD%A6%E4%B9%A0%E4%B9%8Bhtml/</loc>
     <lastmod>2014-07-31T05:51:35.000Z</lastmod>
   </url>
@@ -32,7 +32,7 @@
   </url>
   
   <url>
-    <loc>http://popued.com/about/index.html</loc>
+    <loc>http://popued.com/2014/07/30/hello-popued/</loc>
     <lastmod>2014-07-31T05:51:35.000Z</lastmod>
   </url>
   
