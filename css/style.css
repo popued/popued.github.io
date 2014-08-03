@@ -543,6 +543,25 @@ article footer .addthis iframe {
   font-weight: normal;
   margin-bottom: 15px;
 }
+#ds-recent-visitors {
+  margin-top: 20px;
+  padding-bottom: 10px;
+  margin-left: 13px;
+}
+#ds-recent-visitors .ds-avatar {
+  display: inline;
+  padding: 0;
+!important
+  margin: 4px !important;
+  margin-buttom: 20px;
+}
+!important
+.ds-powered-by {
+  display: none;
+}
+.ds-powered-by a {
+  display: none;
+}
 #pagination a {
   display: block;
   padding: 5px 10px;
