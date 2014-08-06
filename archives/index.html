@@ -217,6 +217,18 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
         <div class="post-content">
           <header>
             <div class="icon"></div>
+            <time datetime="2014-08-06T10:02:28.000Z"><a href="/2014/08/06/初阶程序猿生存技术排行/">8月 6 2014</a></time>
+            
+              <h1 class="title"><a href="/2014/08/06/初阶程序猿生存技术排行/">初阶程序猿生存技术排行</a></h1>
+            
+          </header>
+        </div>
+      </article>
+    
+      <article class="post">
+        <div class="post-content">
+          <header>
+            <div class="icon"></div>
             <time datetime="2014-08-03T07:33:12.000Z"><a href="/2014/08/03/web学习之javascript/">8月 3 2014</a></time>
             
               <h1 class="title"><a href="/2014/08/03/web学习之javascript/">web学习之javascript</a></h1>
@@ -290,6 +302,8 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
   
     <li><a href="/categories/web/">web</a><small>3</small></li>
   
+    <li><a href="/categories/技术分享/">技术分享</a><small>1</small></li>
+  
     <li><a href="/categories/杂谈/">杂谈</a><small>2</small></li>
   
   </ul>
@@ -300,6 +314,10 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
 <div class="widget tag">
   <h3 class="title">最新文章</h3>
   <ul class="entry">
+    
+      <li>
+        <a href="/2014/08/06/初阶程序猿生存技术排行/">初阶程序猿生存技术排行</a>
+      </li>
     
       <li>
         <a href="/2014/08/03/web学习之javascript/">web学习之javascript</a>
@@ -317,10 +335,6 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
         <a href="/2014/07/30/web学习之html/">web学习之html</a>
       </li>
     
-      <li>
-        <a href="/2014/07/30/hello-popued/">hello popued</a>
-      </li>
-    
   </ul>
 </div>
 
@@ -331,11 +345,23 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
 </div>
 
   
-<div id="CloudLabel" class="widget tagcloud">
+<div class="widget tagcloud">
   <h3 class="title">标签云</h3>
-  <div class="entry">
-    <a href="/tags/html/" style="font-size: 10.00px;">html</a><a href="/tags/javascript/" style="font-size: 10.00px;">javascript</a><a href="/tags/markdown/" style="font-size: 10.00px;">markdown</a><a href="/tags/popued/" style="font-size: 20.00px;">popued</a>
+<style type="text/css">
+	/* tagscloud */
+	#tagscloud{width:100%;height:180px;position:relative;font-size:12px;color:#333;margin:10px auto 0;text-align:center;}
+	#tagscloud a{position:absolute;top:0px;left:0px;color:#333;font-family:Arial;text-decoration:none;margin:0 10px 15px 0;line-height:18px;text-align:center;font-size:12px;padding:1px 5px;display:inline-block;border-radius:3px;}
+	#tagscloud .tagc1 a{background:#666;color:#fff;}
+	#tagscloud .tagc2 a{background:#F16E50;color:#fff;}
+	#tagscloud .tagc5 a{background:#006633;color:#fff;}
+	#tagscloud a:hover{color:#fff;background:#0099ff;}
+</style>
+  <div class="entry" id="tagscloud">
+    <div class="tagc1"><a href="/tags/html/" style="font-size: 10.00px;">html</a><a href="/tags/javascript/" style="font-size: 10.00px;">javascript</a><a href="/tags/markdown/" style="font-size: 10.00px;">markdown</a><a href="/tags/popued/" style="font-size: 20.00px;">popued</a><a href="/tags/技术排行-就业/" style="font-size: 10.00px;">技术排行 就业</a></div>
+    <div class="tagc2"><a href="/tags/html/" style="font-size: 10.00px;">html</a><a href="/tags/javascript/" style="font-size: 10.00px;">javascript</a><a href="/tags/markdown/" style="font-size: 10.00px;">markdown</a><a href="/tags/popued/" style="font-size: 20.00px;">popued</a><a href="/tags/技术排行-就业/" style="font-size: 10.00px;">技术排行 就业</a></div>
+    <div class="tagc5"><a href="/tags/html/" style="font-size: 10.00px;">html</a><a href="/tags/javascript/" style="font-size: 10.00px;">javascript</a><a href="/tags/markdown/" style="font-size: 10.00px;">markdown</a><a href="/tags/popued/" style="font-size: 20.00px;">popued</a><a href="/tags/技术排行-就业/" style="font-size: 10.00px;">技术排行 就业</a></div>
   </div>
+  <script src='/js/tagscloud.js' type="text/javascript"></script>
 </div>
 
 
@@ -392,34 +418,6 @@ var duoshuoQuery = {short_name:"popued"};
 </script>
 <link rel="stylesheet" href="/css/rocket.css" type="text/css">
 <script src="/js/rocket.js"></script>
-       <!-- 彩色标签 start -->
-    <script type="text/javascript">
-        $(function () {
-            randomCloudLabel();
-        });
-        function randomCloudLabel() {
-            var obj = $("#CloudLabel a");
-            function rand(num) {
-                return parseInt(Math.random() * num + 1);
-            }
-            function randomcolor() {
-                var str = Math.ceil(Math.random() * 16777215).toString(16);
-                if (str.length < 6) {
-                    str = "0" + str;
-                }
-                return str;
-            }
-            for (len = obj.length, i = len; i--; ) {
-                obj[i].style.left = rand(600) + "px";
-                obj[i].style.top = rand(400) + "px";
-                obj[i].className = "color" + rand(5);
-                obj[i].style.zIndex = rand(5);
-                obj[i].style.fontSize = rand(50) + 12 + "px";
-                obj[i].style.color = "#" + randomcolor();
-            }
-        }
-    </script>
-<!-- 彩色标签 end -->
 
 </body>
 </html>
